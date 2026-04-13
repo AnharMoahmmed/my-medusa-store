@@ -1,0 +1,2 @@
+# my-medusa-store
+
